@@ -150,3 +150,5 @@
 
 * ❌ => not done
 * ✔️ => done
+
+[//]: #https://emojipedia.org/fire/ (emoji source)
