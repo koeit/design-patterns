@@ -78,5 +78,75 @@
     </tr>
 </table>
 
-* ❌ => not done jet
+# Behavioral Patterns
+<table style="width:100%">
+    <tr>
+        <td>❌</td>
+        <td>Visitor</td>
+        <td>🔥</td>
+        <td><a href="https://www.dofactory.com/net/visitor-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>Memento</td>
+        <td>🔥</td>
+        <td><a href="https://www.dofactory.com/net/memento-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>Interpreter</td>
+        <td>🔥</td>
+        <td><a href="https://www.dofactory.com/net/interpreter-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>Chain of Resp.</td>
+        <td>🔥🔥</td>
+        <td><a href="https://www.dofactory.com/net/chain-of-responsibility-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>Mediator</td>
+        <td>🔥🔥</td>
+        <td><a href="https://www.dofactory.com/net/mediator-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>State</td>
+        <td>🔥🔥🔥</td>
+        <td><a href="https://www.dofactory.com/net/state-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>Template Method</td>
+        <td>🔥🔥🔥</td>
+        <td><a href="https://www.dofactory.com/net/template-method-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>Command</td>
+        <td>🔥🔥🔥🔥</td>
+        <td><a href="https://www.dofactory.com/net/command-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>Iterator</td>
+        <td>🔥🔥🔥🔥🔥</td>
+        <td><a href="https://www.dofactory.com/net/iterator-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>Observer</td>
+        <td>🔥🔥🔥🔥🔥</td>
+        <td><a href="https://www.dofactory.com/net/observer-design-pattern">source</a></td>
+    </tr>
+    <tr>
+        <td>❌</td>
+        <td>Strategy</td>
+        <td>🔥🔥🔥🔥🔥</td>
+        <td><a href="https://www.dofactory.com/net/strategy-design-pattern">source</a></td>
+    </tr>
+</table>
+
+* ❌ => not done
 * ✔️ => done
