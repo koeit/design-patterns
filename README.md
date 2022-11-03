@@ -4,7 +4,7 @@
         <td>✔️</td>
         <td>
             <div class="tip" markdown="1">
-                [Builder](src/Creational%20Patterns/Builder/README.md)
+                [Builder](src/Creational Patterns/Builder/README.md)
             </div>
         </td>
         <td>🔥🔥</td>
