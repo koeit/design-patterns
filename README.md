@@ -2,7 +2,7 @@
 <table style="width:100%">
     <tr>
         <td>✔️</td>
-        <td>[Builder](src/Creational Patterns/Builder/README.md)</td>
+        <td><a href="https://github.com/koeit/design-patterns/tree/main/src/Creational%20Patterns/Builder">Builder</a></td>
         <td>🔥🔥</td>
         <td><a href="https://www.dofactory.com/net/builder-design-pattern">source</a></td>
     </tr>
