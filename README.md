@@ -7,8 +7,8 @@
         <td><a href="https://www.dofactory.com/net/builder-design-pattern">source</a></td>
     </tr>
     <tr>
-        <td>❌</td>
-        <td>Prototype</td>
+        <td>✔️</td>
+        <td><a href="https://github.com/koeit/design-patterns/tree/main/src/Creational%20Patterns/Prototype">Prototype</a></td>
         <td>🔥🔥🔥</td>
         <td><a href="https://www.dofactory.com/net/prototype-design-pattern">source</a></td>
     </tr>
