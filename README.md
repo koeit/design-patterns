@@ -19,8 +19,8 @@
         <td><a href="https://www.dofactory.com/net/singleton-design-pattern">source</a></td>
     </tr>
     <tr>
-        <td>❌</td>
-        <td>Factory Method</td>
+        <td>✔️</td>
+        <td><a href="https://github.com/koeit/design-patterns/tree/main/src/Creational%20Patterns/Factory">Factory Method</a></td>
         <td>🔥🔥🔥🔥🔥</td>
         <td><a href="https://www.dofactory.com/net/factory-method-design-pattern">source</a></td>
     </tr>
