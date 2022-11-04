@@ -13,8 +13,8 @@
         <td><a href="https://www.dofactory.com/net/prototype-design-pattern">source</a></td>
     </tr>
     <tr>
-        <td>❌</td>
-        <td>Singleton</td>
+        <td>✔️</td>
+        <td><a href="https://github.com/koeit/design-patterns/tree/main/src/Creational%20Patterns/Singleton">Singleton</a></td>
         <td>🔥🔥🔥🔥</td>
         <td><a href="https://www.dofactory.com/net/singleton-design-pattern">source</a></td>
     </tr>
